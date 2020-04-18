@@ -1,0 +1,62 @@
+<!DOCKTYPE html>
+<html>
+<head>
+<title>My first Webpage</title>
+</head>
+<body>
+
+<!--NOW WE WILL MAKE A REGISTRATION FORM-->
+<h1>REGISTRATION FORM</h1>
+<div id="reg-form">
+<form>
+
+<label for="first-name">First Name:</label>
+<input type="text" name="first-name" placeholder="Arrya" required>
+
+<label for="last-name">Last Name:</label>
+<input type="text" name="last-name" placeholder="paul"required>
+
+<!--AFTER FILLING THE NAME IN THE FORM WE GENERALLY ASK FOR THE GENDER-->
+<div>
+<label for="gender-choice">male</label>
+<input type="radio" name="gender-choice" value="choice-1">
+
+<label for="gender-choice">female</label>
+<input type="radio" name="gender-choice" value="choice-2">
+
+<label for = "gender-choice">others</label>
+<input type="radio" name="gender-choice" value="choice-3">
+
+</div>
+
+<!--AFTER FILLING THE DATE OF BIRTH, WE GENERALLY ASK FOR THE EMAIL ID-->
+
+<div>
+
+<label for = "email">Email</label>
+<input type="email" name="email" placeholder="xy@gmail.com">
+
+<!--AFTER EMAIL WE ASK FOR THE PASSWORD, AND PASSWORD DONT HAVE PLACEHOLDERS-->
+
+<label for="password">Password</label>
+<input type="password" name="password">
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</form>
+</div>
+</body>

@@ -1,0 +1,93 @@
+<!DOCKTYPE html>
+<html>
+<head>
+<title>Demo</title>
+
+</head>
+<body>
+<h1> CSS Tutorial</h1>
+<p>A CSS Tutorial that will cover pretty much everything in one tutorial</p>
+<h2>Let's get started</h2>
+<div>
+<h3>MY favorite movies</h3>
+<ul>
+<li><a class="movie">Dota</a></li>
+<li><a class="movie">Splintercell</a></li>
+<li><a class="movie">God of War</a></li>
+</ul>
+</div>
+
+<h2>My favorite Movie Quote</h2>
+<p id="quote">How happy is the blameless vestals lot,
+the world forgetting by the world forgot
+eternal sunshine of a spotless mind,
+each prayer heard and each wish resigned
+<span id="author">Pope Alexander</span></p>
+
+<p class = "games">I love <a href = "youtube.com">YouTube</a></p>
+
+<p>Some stuff that I put in my CV</p>
+<div id="skills">
+<ol>
+<li>NodeJS</li>
+<li>BlockChain</li>
+<li>Network Security</li>
+</ol>
+<ul>
+<li id="skills">SASS</li>
+<li>HAML</li>
+</ul>
+</div>
+
+<h3>Favorite Video games</h3>
+<p>List of my current <a href="tvshows">favorite tv shows</a></p>
+<ul>
+<li alt="hbo">The Wire</li>
+<li alt="hbo">Sopranos</li>
+<li alt="netflix">Bojack Horssman</li>
+<li alt="hbo">Game of Thrones</li>
+</ul>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
